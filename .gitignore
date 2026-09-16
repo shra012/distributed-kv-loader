@@ -1,0 +1,10 @@
+.DS_Store
+build/
+build-*/
+data/
+results/
+compile_commands.json
+core_engine-*.tar.gz
+requirements/
+.vscode/
+.clangd
